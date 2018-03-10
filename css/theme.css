@@ -186,6 +186,7 @@ p.site-description{
   background: #181c22;
   padding: 15px 20px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+  overflow:hidden;
 }
 
 .skill-percentage{
